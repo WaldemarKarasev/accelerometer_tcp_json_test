@@ -49,6 +49,7 @@ target_link_libraries(server
 
 add_executable(node_a
     src/node_a/main.cpp
+    src/node_a/accelerometer_emulator.cpp
 )
 
 target_link_libraries(node_a

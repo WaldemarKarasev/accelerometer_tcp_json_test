@@ -10,8 +10,8 @@ class ClientSession;
 class ServerState
 {
 public:
-    void SetNodeA(const std::shared_ptr<ClientSession>& session);
-    void SetNodeB(const std::shared_ptr<ClientSession>& session);
+    bool SetNodeA(const std::shared_ptr<ClientSession>& session);
+    bool SetNodeB(const std::shared_ptr<ClientSession>& session);
 
     std::shared_ptr<ClientSession> GetNodeA() const;
     std::shared_ptr<ClientSession> GetNodeB() const;

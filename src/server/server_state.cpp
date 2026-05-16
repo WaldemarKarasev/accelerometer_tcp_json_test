@@ -4,16 +4,36 @@
 
 namespace accel::server {
 
-void ServerState::SetNodeA(const std::shared_ptr<ClientSession>& session)
+bool ServerState::SetNodeA(const std::shared_ptr<ClientSession>& session)
 {
     std::lock_guard<std::mutex> lock(mutex_);
+
+    const auto current_node = node_a_.lock();
+
+    if (current_node && current_node.get() != session.get())
+    {
+        return false;
+    }
+
     node_a_ = session;
+
+    return true;
 }
 
-void ServerState::SetNodeB(const std::shared_ptr<ClientSession>& session)
+bool ServerState::SetNodeB(const std::shared_ptr<ClientSession>& session)
 {
-    std::lock_guard<std::mutex> lock(mutex_);
+        std::lock_guard<std::mutex> lock(mutex_);
+
+    const auto current_node = node_b_.lock();
+
+    if (current_node && current_node.get() != session.get())
+    {
+        return false;
+    }
+
     node_b_ = session;
+
+    return true;
 }
 
 std::shared_ptr<ClientSession> ServerState::GetNodeA() const
