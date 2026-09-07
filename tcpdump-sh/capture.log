@@ -1,0 +1,957 @@
+2026-09-07 20:09:34 [INFO] Starting tcpdump
+2026-09-07 20:09:34 [INFO] Max files: 3
+2026-09-07 20:09:34 [INFO] File size: 300 MB
+2026-09-07 20:09:34 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 20:09:35 [INFO] MAIN_PID: 263137
+2026-09-07 20:09:35 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_263137_1788800974_
+2026-09-07 20:09:35 [INFO] GZIP_BIN: xz
+2026-09-07 20:09:35 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 20:09:35 [INFO] tcpdump PID=263160 PGID=263160
+2026-09-07 20:10:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_263137_1788800974_
+2026-09-07 20:10:38 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_263137_1788800974_1
+2026-09-07 20:10:41 [INFO] Last dump reached: index=2
+2026-09-07 20:10:41 [INFO] MAX_DUMP_FILES reached
+2026-09-07 20:10:41 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_263137_1788800974_2
+2026-09-07 20:10:41 [INFO] Graceful shutdown: max_files
+2026-09-07 20:11:10 [INFO] Remove overflow file: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_263137_1788800974_3
+2026-09-07 21:32:02 [INFO] Starting tcpdump
+2026-09-07 21:32:02 [INFO] Max files: 100
+2026-09-07 21:32:02 [INFO] File size: 10 MB
+2026-09-07 21:32:02 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:32:03 [INFO] MAIN_PID: 349570
+2026-09-07 21:32:03 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_349570_1788805922_
+2026-09-07 21:32:03 [INFO] GZIP_BIN: xz
+2026-09-07 21:32:03 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:32:03 [INFO] tcpdump PID=349594 PGID=349594
+2026-09-07 21:33:41 [INFO] SIGTERM received
+2026-09-07 21:33:41 [INFO] Immediate shutdown: sigterm
+2026-09-07 21:34:23 [INFO] Starting tcpdump
+2026-09-07 21:34:23 [INFO] Max files: 100
+2026-09-07 21:34:23 [INFO] File size: 10 MB
+2026-09-07 21:34:23 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:34:23 [INFO] MAIN_PID: 352601
+2026-09-07 21:34:23 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_352601_1788806063_
+2026-09-07 21:34:23 [INFO] GZIP_BIN: xz
+2026-09-07 21:34:23 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:34:23 [INFO] tcpdump PID=352625 PGID=352625
+2026-09-07 21:34:49 [INFO] SIGTERM received
+2026-09-07 21:34:50 [INFO] Immediate shutdown: sigterm
+2026-09-07 21:37:49 [INFO] Starting tcpdump
+2026-09-07 21:37:49 [INFO] Max files: 100
+2026-09-07 21:37:49 [INFO] File size: 10 MB
+2026-09-07 21:37:50 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:37:50 [INFO] MAIN_PID: 356514
+2026-09-07 21:37:50 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_
+2026-09-07 21:37:50 [INFO] GZIP_BIN: xz
+2026-09-07 21:37:50 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:37:50 [INFO] tcpdump PID=356538 PGID=356538
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_1
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_2
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_3
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_4
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_5
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_6
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_7
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_8
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_9
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_10
+2026-09-07 21:37:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_11
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_12
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_13
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_14
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_15
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_16
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_17
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_18
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_19
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_20
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_21
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_22
+2026-09-07 21:37:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_23
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_24
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_25
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_26
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_27
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_28
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_29
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_30
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_31
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_32
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_33
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_34
+2026-09-07 21:37:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_35
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_36
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_37
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_38
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_39
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_40
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_41
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_42
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_43
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_44
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_45
+2026-09-07 21:37:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_46
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_47
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_48
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_49
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_50
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_51
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_52
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_53
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_54
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_55
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_56
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_57
+2026-09-07 21:37:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_58
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_59
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_60
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_61
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_62
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_63
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_64
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_65
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_66
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_67
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_68
+2026-09-07 21:37:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_69
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_70
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_71
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_72
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_73
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_74
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_75
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_76
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_77
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_78
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_80
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_79
+2026-09-07 21:37:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_81
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_82
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_83
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_84
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_85
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_86
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_88
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_87
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_89
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_90
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_91
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_92
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_93
+2026-09-07 21:37:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_94
+2026-09-07 21:38:00 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_95
+2026-09-07 21:38:00 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_96
+2026-09-07 21:38:00 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_97
+2026-09-07 21:38:00 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_98
+2026-09-07 21:38:00 [INFO] Last dump reached: index=99
+2026-09-07 21:38:00 [INFO] MAX_DUMP_FILES reached
+2026-09-07 21:38:00 [INFO] Graceful shutdown: max_files
+2026-09-07 21:38:00 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_356514_1788806269_99
+2026-09-07 21:38:28 [INFO] Starting tcpdump
+2026-09-07 21:38:28 [INFO] Max files: 100
+2026-09-07 21:38:28 [INFO] File size: 10 MB
+2026-09-07 21:38:28 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:38:28 [INFO] MAIN_PID: 358830
+2026-09-07 21:38:28 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_
+2026-09-07 21:38:28 [INFO] GZIP_BIN: xz
+2026-09-07 21:38:28 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:38:28 [INFO] tcpdump PID=358854 PGID=358854
+2026-09-07 21:38:30 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_
+2026-09-07 21:38:30 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_1
+2026-09-07 21:38:30 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_2
+2026-09-07 21:38:30 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_3
+2026-09-07 21:38:30 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_4
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_5
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_6
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_7
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_8
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_9
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_10
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_11
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_12
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_13
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_14
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_15
+2026-09-07 21:38:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_16
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_17
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_18
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_19
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_20
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_21
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_22
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_23
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_24
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_25
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_26
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_27
+2026-09-07 21:38:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_28
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_29
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_30
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_31
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_32
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_33
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_34
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_35
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_36
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_37
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_38
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_39
+2026-09-07 21:38:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_40
+2026-09-07 21:38:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_41
+2026-09-07 21:38:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_42
+2026-09-07 21:38:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_43
+2026-09-07 21:38:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_44
+2026-09-07 21:38:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_45
+2026-09-07 21:38:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_358830_1788806308_46
+2026-09-07 21:38:34 [INFO] SIGTERM received
+2026-09-07 21:38:34 [INFO] Immediate shutdown: sigterm
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:34 [INFO] SIGTERM received, stop compression
+2026-09-07 21:38:49 [INFO] Starting tcpdump
+2026-09-07 21:38:49 [INFO] Max files: 3
+2026-09-07 21:38:49 [INFO] File size: 10 MB
+2026-09-07 21:38:49 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:38:49 [INFO] MAIN_PID: 359690
+2026-09-07 21:38:49 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_359690_1788806329_
+2026-09-07 21:38:49 [INFO] GZIP_BIN: xz
+2026-09-07 21:38:49 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:38:49 [INFO] tcpdump PID=359714 PGID=359714
+2026-09-07 21:38:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_359690_1788806329_
+2026-09-07 21:38:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_359690_1788806329_1
+2026-09-07 21:38:51 [INFO] Last dump reached: index=2
+2026-09-07 21:38:51 [INFO] MAX_DUMP_FILES reached
+2026-09-07 21:38:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_359690_1788806329_2
+2026-09-07 21:38:51 [INFO] Graceful shutdown: max_files
+2026-09-07 21:39:09 [INFO] Starting tcpdump
+2026-09-07 21:39:09 [INFO] Max files: 100
+2026-09-07 21:39:09 [INFO] File size: 10 MB
+2026-09-07 21:39:09 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:39:09 [INFO] MAIN_PID: 360196
+2026-09-07 21:39:09 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_
+2026-09-07 21:39:09 [INFO] GZIP_BIN: xz
+2026-09-07 21:39:09 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:39:09 [INFO] tcpdump PID=360220 PGID=360220
+2026-09-07 21:39:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_
+2026-09-07 21:39:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_1
+2026-09-07 21:39:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_2
+2026-09-07 21:39:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_3
+2026-09-07 21:39:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_4
+2026-09-07 21:39:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_5
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_6
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_7
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_8
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_9
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_10
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_11
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_12
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_13
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_14
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_15
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_16
+2026-09-07 21:39:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_17
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_18
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_19
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_20
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_21
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_22
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_23
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_24
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_25
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_26
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_28
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_29
+2026-09-07 21:39:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_27
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_30
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_31
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_32
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_33
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_34
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_35
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_36
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_37
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_38
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_39
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_40
+2026-09-07 21:39:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_41
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_42
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_43
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_44
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_45
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_46
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_47
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_48
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_49
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_50
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_51
+2026-09-07 21:39:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_52
+2026-09-07 21:39:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_53
+2026-09-07 21:39:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_54
+2026-09-07 21:39:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_56
+2026-09-07 21:39:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_55
+2026-09-07 21:39:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_57
+2026-09-07 21:39:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_360196_1788806349_58
+2026-09-07 21:39:16 [INFO] SIGTERM received
+2026-09-07 21:39:16 [INFO] Immediate shutdown: sigterm
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:16 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:30 [INFO] Starting tcpdump
+2026-09-07 21:39:30 [INFO] Max files: 100
+2026-09-07 21:39:30 [INFO] File size: 10 MB
+2026-09-07 21:39:30 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:39:30 [INFO] MAIN_PID: 361309
+2026-09-07 21:39:30 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_
+2026-09-07 21:39:30 [INFO] GZIP_BIN: xz
+2026-09-07 21:39:30 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:39:30 [INFO] tcpdump PID=361333 PGID=361333
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_1
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_2
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_3
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_4
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_5
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_6
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_7
+2026-09-07 21:39:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_8
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_9
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_10
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_11
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_12
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_13
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_14
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_15
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_16
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_17
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_18
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_19
+2026-09-07 21:39:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_20
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_21
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_23
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_22
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_24
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_25
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_26
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_27
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_28
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_29
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_30
+2026-09-07 21:39:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_31
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_32
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_33
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_34
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_35
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_36
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_37
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_38
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_39
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_40
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_41
+2026-09-07 21:39:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_42
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_43
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_44
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_45
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_46
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_47
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_48
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_49
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_50
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_51
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_52
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_53
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_54
+2026-09-07 21:39:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_55
+2026-09-07 21:39:37 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_361309_1788806370_56
+2026-09-07 21:39:37 [INFO] SIGTERM received
+2026-09-07 21:39:37 [INFO] Immediate shutdown: sigterm
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:39:37 [INFO] SIGTERM received, stop compression
+2026-09-07 21:41:19 [ERROR] Not enough free disk space
+2026-09-07 21:41:27 [ERROR] Not enough free disk space
+2026-09-07 21:41:34 [ERROR] Not enough free disk space
+2026-09-07 21:42:16 [INFO] Starting tcpdump
+2026-09-07 21:42:16 [INFO] Max files: 10000
+2026-09-07 21:42:16 [INFO] File size: 100 MB
+2026-09-07 21:42:16 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:42:16 [INFO] MAIN_PID: 365241
+2026-09-07 21:42:16 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365241_1788806536_
+2026-09-07 21:42:16 [INFO] GZIP_BIN: xz
+2026-09-07 21:42:16 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:42:16 [INFO] tcpdump PID=365265 PGID=365265
+2026-09-07 21:42:18 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365241_1788806536_
+2026-09-07 21:42:25 [ERROR] Not enough free disk space
+2026-09-07 21:42:26 [ERROR] Cannot determine disk usage
+2026-09-07 21:42:26 [ERROR] Free disk space <= 5%
+2026-09-07 21:42:26 [INFO] Immediate shutdown: low_disk
+2026-09-07 21:42:32 [ERROR] Not enough free disk space
+2026-09-07 21:42:37 [ERROR] Not enough free disk space
+2026-09-07 21:42:42 [INFO] Starting tcpdump
+2026-09-07 21:42:42 [INFO] Max files: 10000
+2026-09-07 21:42:42 [INFO] File size: 100 MB
+2026-09-07 21:42:42 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:42:42 [INFO] MAIN_PID: 365985
+2026-09-07 21:42:42 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_
+2026-09-07 21:42:42 [INFO] GZIP_BIN: xz
+2026-09-07 21:42:42 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:42:42 [INFO] tcpdump PID=366013 PGID=366013
+2026-09-07 21:42:45 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_
+2026-09-07 21:42:45 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_1
+2026-09-07 21:42:46 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_2
+2026-09-07 21:42:46 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_3
+2026-09-07 21:42:46 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_4
+2026-09-07 21:42:47 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_5
+2026-09-07 21:42:47 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_6
+2026-09-07 21:42:48 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_7
+2026-09-07 21:42:48 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_8
+2026-09-07 21:42:48 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_9
+2026-09-07 21:42:49 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_10
+2026-09-07 21:42:49 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_11
+2026-09-07 21:42:50 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_12
+2026-09-07 21:42:50 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_13
+2026-09-07 21:42:50 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_14
+2026-09-07 21:42:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_15
+2026-09-07 21:42:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_16
+2026-09-07 21:42:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_17
+2026-09-07 21:42:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_18
+2026-09-07 21:42:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_19
+2026-09-07 21:42:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_20
+2026-09-07 21:42:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_21
+2026-09-07 21:42:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_22
+2026-09-07 21:42:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_23
+2026-09-07 21:42:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_24
+2026-09-07 21:42:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_25
+2026-09-07 21:42:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_26
+2026-09-07 21:42:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_27
+2026-09-07 21:42:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_28
+2026-09-07 21:42:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_29
+2026-09-07 21:42:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_30
+2026-09-07 21:42:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_31
+2026-09-07 21:43:00 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_32
+2026-09-07 21:43:01 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_33
+2026-09-07 21:43:02 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_34
+2026-09-07 21:43:02 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_35
+2026-09-07 21:43:03 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_36
+2026-09-07 21:43:03 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_37
+2026-09-07 21:43:04 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_38
+2026-09-07 21:43:04 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_39
+2026-09-07 21:43:04 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_40
+2026-09-07 21:43:05 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_41
+2026-09-07 21:43:06 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_42
+2026-09-07 21:43:06 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_43
+2026-09-07 21:43:07 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_44
+2026-09-07 21:43:08 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_45
+2026-09-07 21:43:08 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_46
+2026-09-07 21:43:09 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_47
+2026-09-07 21:43:10 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_48
+2026-09-07 21:43:10 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_49
+2026-09-07 21:43:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_50
+2026-09-07 21:43:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_51
+2026-09-07 21:43:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_52
+2026-09-07 21:43:13 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_53
+2026-09-07 21:43:14 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_54
+2026-09-07 21:43:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_55
+2026-09-07 21:43:15 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_56
+2026-09-07 21:43:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_57
+2026-09-07 21:43:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_58
+2026-09-07 21:43:17 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_59
+2026-09-07 21:43:18 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_60
+2026-09-07 21:43:18 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_61
+2026-09-07 21:43:19 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_62
+2026-09-07 21:43:19 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_63
+2026-09-07 21:43:20 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_64
+2026-09-07 21:43:20 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_65
+2026-09-07 21:43:21 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_66
+2026-09-07 21:43:21 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_67
+2026-09-07 21:43:22 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_68
+2026-09-07 21:43:22 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_69
+2026-09-07 21:43:23 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_70
+2026-09-07 21:43:24 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_71
+2026-09-07 21:43:24 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_72
+2026-09-07 21:43:25 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_73
+2026-09-07 21:43:26 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_74
+2026-09-07 21:43:26 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_75
+2026-09-07 21:43:27 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_76
+2026-09-07 21:43:27 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_77
+2026-09-07 21:43:28 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_78
+2026-09-07 21:43:28 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_79
+2026-09-07 21:43:29 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_80
+2026-09-07 21:43:29 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_81
+2026-09-07 21:43:30 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_82
+2026-09-07 21:43:30 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_83
+2026-09-07 21:43:31 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_84
+2026-09-07 21:43:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_85
+2026-09-07 21:43:32 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_86
+2026-09-07 21:43:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_87
+2026-09-07 21:43:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_88
+2026-09-07 21:43:33 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_89
+2026-09-07 21:43:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_90
+2026-09-07 21:43:34 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_91
+2026-09-07 21:43:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_92
+2026-09-07 21:43:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_93
+2026-09-07 21:43:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_94
+2026-09-07 21:43:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_95
+2026-09-07 21:43:37 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_96
+2026-09-07 21:43:38 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_97
+2026-09-07 21:43:39 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_98
+2026-09-07 21:43:40 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_99
+2026-09-07 21:43:40 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_100
+2026-09-07 21:43:41 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_101
+2026-09-07 21:43:41 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_102
+2026-09-07 21:43:42 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_103
+2026-09-07 21:43:42 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_104
+2026-09-07 21:43:43 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_105
+2026-09-07 21:43:44 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_106
+2026-09-07 21:43:44 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_107
+2026-09-07 21:43:45 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_108
+2026-09-07 21:43:46 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_109
+2026-09-07 21:43:46 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_110
+2026-09-07 21:43:47 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_111
+2026-09-07 21:43:47 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_112
+2026-09-07 21:43:48 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_113
+2026-09-07 21:43:49 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_114
+2026-09-07 21:43:49 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_115
+2026-09-07 21:43:50 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_116
+2026-09-07 21:43:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_117
+2026-09-07 21:43:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_118
+2026-09-07 21:43:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_119
+2026-09-07 21:43:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_120
+2026-09-07 21:43:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_121
+2026-09-07 21:43:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_122
+2026-09-07 21:43:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_123
+2026-09-07 21:43:54 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_124
+2026-09-07 21:43:55 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_125
+2026-09-07 21:43:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_126
+2026-09-07 21:43:56 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_127
+2026-09-07 21:43:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_128
+2026-09-07 21:43:57 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_129
+2026-09-07 21:43:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_130
+2026-09-07 21:43:58 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_131
+2026-09-07 21:43:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_132
+2026-09-07 21:43:59 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_133
+2026-09-07 21:44:00 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_134
+2026-09-07 21:44:01 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_135
+2026-09-07 21:44:02 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_136
+2026-09-07 21:44:02 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_137
+2026-09-07 21:44:03 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_138
+2026-09-07 21:44:04 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_139
+2026-09-07 21:44:05 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_140
+2026-09-07 21:44:05 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_141
+2026-09-07 21:44:06 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_142
+2026-09-07 21:44:06 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_143
+2026-09-07 21:44:06 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_144
+2026-09-07 21:44:07 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_145
+2026-09-07 21:44:08 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_146
+2026-09-07 21:44:08 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_147
+2026-09-07 21:44:08 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_148
+2026-09-07 21:44:09 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_149
+2026-09-07 21:44:10 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_150
+2026-09-07 21:44:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_151
+2026-09-07 21:44:11 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_152
+2026-09-07 21:44:12 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_365985_1788806562_153
+2026-09-07 21:44:57 [INFO] SIGTERM received
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] Immediate shutdown: sigterm
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:44:57 [INFO] SIGTERM received, stop compression
+2026-09-07 21:45:31 [INFO] used percent: 63
+2026-09-07 21:45:31 [ERROR] Not enough free disk space
+2026-09-07 21:46:22 [INFO] used percent: 63
+2026-09-07 21:46:22 [ERROR] Not enough free disk space
+2026-09-07 21:46:26 [INFO] used percent: 63
+2026-09-07 21:46:26 [ERROR] Not enough free disk space
+2026-09-07 21:46:32 [INFO] used percent: 63
+2026-09-07 21:46:32 [INFO] Starting tcpdump
+2026-09-07 21:46:32 [INFO] Max files: 10000
+2026-09-07 21:46:32 [INFO] used percent: 63
+2026-09-07 21:46:32 [INFO] File size: 100 MB
+2026-09-07 21:46:32 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:46:32 [INFO] MAIN_PID: 379891
+2026-09-07 21:46:32 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_
+2026-09-07 21:46:32 [INFO] GZIP_BIN: xz
+2026-09-07 21:46:32 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:46:32 [INFO] tcpdump PID=379917 PGID=379917
+2026-09-07 21:46:33 [INFO] used percent: 63
+2026-09-07 21:46:34 [INFO] used percent: 63
+2026-09-07 21:46:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_
+2026-09-07 21:46:35 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_1
+2026-09-07 21:46:35 [INFO] used percent: 63
+2026-09-07 21:46:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_2
+2026-09-07 21:46:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_3
+2026-09-07 21:46:36 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_4
+2026-09-07 21:46:36 [INFO] used percent: 63
+2026-09-07 21:46:37 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_5
+2026-09-07 21:46:37 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_6
+2026-09-07 21:46:37 [INFO] used percent: 63
+2026-09-07 21:46:38 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_7
+2026-09-07 21:46:38 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_8
+2026-09-07 21:46:38 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_9
+2026-09-07 21:46:38 [INFO] used percent: 63
+2026-09-07 21:46:39 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_10
+2026-09-07 21:46:39 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_11
+2026-09-07 21:46:39 [INFO] used percent: 63
+2026-09-07 21:46:40 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_12
+2026-09-07 21:46:40 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_13
+2026-09-07 21:46:40 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_14
+2026-09-07 21:46:40 [INFO] used percent: 63
+2026-09-07 21:46:41 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_15
+2026-09-07 21:46:41 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_379891_1788806792_16
+2026-09-07 21:46:42 [INFO] used percent: 64
+2026-09-07 21:46:42 [ERROR] Free disk space <= 36%
+2026-09-07 21:46:42 [INFO] Immediate shutdown: low_disk
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:46:42 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:13 [INFO] used percent: 63
+2026-09-07 21:47:14 [INFO] Starting tcpdump
+2026-09-07 21:47:14 [INFO] Max files: 10000
+2026-09-07 21:47:14 [INFO] used percent: 63
+2026-09-07 21:47:14 [INFO] File size: 100 MB
+2026-09-07 21:47:14 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:47:14 [INFO] MAIN_PID: 380926
+2026-09-07 21:47:14 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_
+2026-09-07 21:47:14 [INFO] GZIP_BIN: xz
+2026-09-07 21:47:14 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:47:14 [INFO] tcpdump PID=380956 PGID=380956
+2026-09-07 21:47:15 [INFO] used percent: 63
+2026-09-07 21:47:16 [INFO] used percent: 63
+2026-09-07 21:47:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_
+2026-09-07 21:47:16 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_1
+2026-09-07 21:47:17 [INFO] used percent: 63
+2026-09-07 21:47:17 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_2
+2026-09-07 21:47:17 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_3
+2026-09-07 21:47:18 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_4
+2026-09-07 21:47:18 [INFO] used percent: 63
+2026-09-07 21:47:18 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_5
+2026-09-07 21:47:18 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_6
+2026-09-07 21:47:19 [INFO] used percent: 63
+2026-09-07 21:47:19 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_7
+2026-09-07 21:47:19 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_8
+2026-09-07 21:47:19 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_9
+2026-09-07 21:47:20 [INFO] used percent: 63
+2026-09-07 21:47:20 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_10
+2026-09-07 21:47:20 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_11
+2026-09-07 21:47:21 [INFO] used percent: 63
+2026-09-07 21:47:21 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_12
+2026-09-07 21:47:21 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_13
+2026-09-07 21:47:22 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_14
+2026-09-07 21:47:22 [INFO] used percent: 63
+2026-09-07 21:47:22 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_15
+2026-09-07 21:47:22 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_380926_1788806833_16
+2026-09-07 21:47:23 [INFO] used percent: 64
+2026-09-07 21:47:23 [ERROR] Free disk space <= 36%
+2026-09-07 21:47:23 [INFO] Immediate shutdown: low_disk
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:47:23 [INFO] SIGTERM received, stop compression
+2026-09-07 21:54:45 [INFO] used percent: 63
+2026-09-07 21:54:45 [INFO] Starting tcpdump
+2026-09-07 21:54:45 [INFO] Max files: 10000
+2026-09-07 21:54:45 [INFO] used percent: 63
+2026-09-07 21:54:45 [INFO] File size: 100 MB
+2026-09-07 21:54:45 [INFO] Output mask: ./dumps/final_file_%02d
+2026-09-07 21:54:45 [INFO] MAIN_PID: 388945
+2026-09-07 21:54:45 [INFO] RAW_MASK: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_
+2026-09-07 21:54:45 [INFO] GZIP_BIN: xz
+2026-09-07 21:54:45 [INFO] GZIP_FILE_EXTENSION: .xz
+2026-09-07 21:54:45 [INFO] tcpdump PID=388976 PGID=388976
+2026-09-07 21:54:46 [INFO] used percent: 63
+2026-09-07 21:54:47 [INFO] used percent: 63
+2026-09-07 21:54:48 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_
+2026-09-07 21:54:48 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_1
+2026-09-07 21:54:48 [INFO] used percent: 63
+2026-09-07 21:54:49 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_2
+2026-09-07 21:54:49 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_3
+2026-09-07 21:54:49 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_4
+2026-09-07 21:54:49 [INFO] used percent: 63
+2026-09-07 21:54:50 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_5
+2026-09-07 21:54:50 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_6
+2026-09-07 21:54:50 [INFO] used percent: 63
+2026-09-07 21:54:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_7
+2026-09-07 21:54:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_8
+2026-09-07 21:54:51 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_9
+2026-09-07 21:54:51 [INFO] used percent: 63
+2026-09-07 21:54:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_10
+2026-09-07 21:54:52 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_11
+2026-09-07 21:54:52 [INFO] used percent: 63
+2026-09-07 21:54:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_12
+2026-09-07 21:54:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_13
+2026-09-07 21:54:53 [INFO] Compress: /home/pingvinus/work/tcpdump-sh/dumps/tmp/.tcpdump_388945_1788807285_14
+2026-09-07 21:54:53 [INFO] used percent: 64
+2026-09-07 21:54:53 [ERROR] Free disk space <= 36%
+2026-09-07 21:54:53 [INFO] Graceful shutdown: low_disk
